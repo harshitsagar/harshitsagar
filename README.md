@@ -34,6 +34,7 @@
 ---
 
 # 📊 GitHub Stats:
+![GitHub Achievements](https://github-profile-achievements.vercel.app/api/?username=harshitsagar)
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitsagar&theme=dark&hide_border=false) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&theme=dark&hide_border=false&layout=compact)
 
