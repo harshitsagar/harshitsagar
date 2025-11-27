@@ -9,14 +9,14 @@
 
 📫 Reach me at: harshitsagar***@gmail.com  
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
+![Profile views](https://komarev.com/ghpvc/?username=harshitsagar)
 
 ---
 
 ## 🌐 Socials
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitsagar***@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) <!-- Replace link when available -->
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitsagar71@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/harshitsagar/)) <!-- Replace link when available -->
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/harshitsagar))
 
 ---
 
@@ -30,7 +30,6 @@
 ![Provider](https://img.shields.io/badge/Provider-000000?style=for-the-badge&logo=flutter&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -41,22 +40,20 @@
 | 🎯 Real-Time Object Detection | YOLOv8 + Flutter mobile app with live camera detection | Coming Soon |
 | 🧠 Quiz App | API-based MCQ quiz app with score summary | Coming Soon |
 
-> Replace the “Coming Soon” with your GitHub links anytime.
-
 ---
 
 ## 📊 GitHub Stats
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&layout=compact)
+![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitsagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitsagar&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=harshitsagar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=9&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harshitsagar&icon=9&color=0)](https://visitcount.itsvg.in)
 
 ---
