@@ -34,10 +34,9 @@
 ## 📱 Featured Projects
 | Project | Description | Link |
 |--------|-------------|------|
-| 🔥 Food Delivery App | A polished Swiggy-like food delivery app built using Flutter & Firebase | Coming Soon |
-| 🎯 Real-Time Object Detection | YOLOv8 + Flutter mobile app with live camera detection | Coming Soon |
-| 🧠 Quiz App | API-based MCQ quiz app with score summary | Coming Soon |
-
+| 🍔 Food Delivery App | A full Swiggy-like app built with Flutter & Firebase — Google/OTP login, Razorpay/UPI payments & polished UI | 🔗 https://github.com/harshitsagar/Food-Delivery-app |
+| 🧾 Amazon Clone App | A functional e-commerce clone built with Flutter — product browsing, cart, orders & admin panel | 🔗 Uploading Soon |
+| 🎯 Real-Time Object Detection App | YOLOv8 + Flutter powered real-time camera detection & object recognition | 🔗 https://github.com/harshitsagar/Real-time-Object-Detection-App |
 ---
 
 # 📊 GitHub Stats:
