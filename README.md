@@ -17,15 +17,17 @@
 ---
 
 # 💻 Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=postman&logoColor=white)
-![Bloc](https://img.shields.io/badge/BLoC-396AA9?style=for-the-badge)
-![GetX](https://img.shields.io/badge/GetX-000000?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-000000?style=for-the-badge&logo=flutter&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=postman&logoColor=white)](https://restfulapi.net/)
+[![Bloc](https://img.shields.io/badge/BLoC-396AA9?style=for-the-badge)](https://bloclibrary.dev/)
+[![GetX](https://img.shields.io/badge/GetX-000000?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev/packages/get)
+[![Provider](https://img.shields.io/badge/Provider-000000?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev/packages/provider)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ---
 
