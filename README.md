@@ -41,8 +41,8 @@
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshitsagar&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-
+<!--
 ---
 
-[![](https://visitcount.itsvg.in/api?id=harshitsagar&icon=9&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harshitsagar&icon=9&color=0)](https://visitcount.itsvg.in) -->
 
