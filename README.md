@@ -37,8 +37,6 @@
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitsagar&theme=dark&hide_border=false) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&theme=dark&hide_border=false&layout=compact)
 
----
-
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshitsagar&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
