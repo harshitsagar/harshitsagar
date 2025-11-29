@@ -43,7 +43,7 @@
 ![Harshit’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitsagar&theme=react-dark&hide_border=true&area=true) -->
 
 <!-- --- -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsagar&theme=github_dark)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsagar&theme=github_dark) -->
 
 [![](https://visitcount.itsvg.in/api?id=harshitsagar&icon=9&color=0)](https://visitcount.itsvg.in) 
 
