@@ -34,15 +34,10 @@
 ---
 
 # 📊 GitHub Stats:
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitsagar&theme=radical&hide_border=false&show_icons=true)
-
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitsagar&theme=dark&hide_border=false) -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=harshitsagar&theme=radical&hide_border=false&fire=DD2727) -->
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&theme=dark&hide_border=false&layout=compact)
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshitsagar&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=harshitsagar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- ## 🔥 GitHub Activity Graph
 ![Harshit’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitsagar&theme=react-dark&hide_border=true&area=true) -->
