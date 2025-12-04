@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&theme=github_dark&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitsagar&theme=dark&hide_border=false)
 <!-- Alternative style options - try these if the above doesn't work: -->
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&layout=compact&theme=dark)
