@@ -34,6 +34,12 @@
 
 ---
 
+### 🏆 Achievements
+![GitHub stars](https://img.shields.io/github/stars/harshitsagar?style=social)
+![GitHub followers](https://img.shields.io/github/followers/harshitsagar?style=social)
+![GitHub forks](https://img.shields.io/github/forks/harshitsagar?style=social)
+
+
 <!-- ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitsagar&theme=dark&hide_border=false) -->
@@ -41,8 +47,8 @@
 <!-- ### 📊 Profile Summary
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsagar&theme=github_dark) -->
 
-### 📈 GitHub Activity
+<!-- ### 📈 GitHub Activity
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitsagar&theme=dark&hide_border=false)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsagar&theme=github_dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsagar&theme=github_dark) -->
 
 [![](https://visitcount.itsvg.in/api?id=harshitsagar&icon=9&color=0)](https://visitcount.itsvg.in) 
