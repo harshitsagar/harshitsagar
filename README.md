@@ -9,6 +9,7 @@
 📫 Reach me at: **harshitsagar71@gmail.com**
 
 ![Profile views](https://komarev.com/ghpvc/?username=harshitsagar)
+
 ---
 
 ## 🌐 Socials
@@ -16,7 +17,7 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
@@ -33,17 +34,26 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&theme=dark&hide_border=false&layout=compact)
+
+<!-- Alternative style options - try these if the above doesn't work: -->
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&layout=compact&theme=dark)
+-->
+
+<!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+-->
 
 <!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=harshitsagar&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
-<!-- ## 🔥 GitHub Activity Graph
-![Harshit’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitsagar&theme=react-dark&hide_border=true&area=true) -->
+<!-- ## 🔥 GitHub Activity Graph -->
+<!-- ![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitsagar&theme=react-dark&hide_border=true&area=true) -->
 
 <!-- --- -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsagar&theme=github_dark) -->
 
 [![](https://visitcount.itsvg.in/api?id=harshitsagar&icon=9&color=0)](https://visitcount.itsvg.in) 
-
