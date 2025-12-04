@@ -38,9 +38,6 @@
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshitsagar&layout=compact&theme=dark&hide_border=true)
 
-### 🏆 GitHub Profile Stats
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitsagar&show_icons=true&theme=radical)
-
 <!-- ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitsagar&theme=dark&hide_border=false) -->
