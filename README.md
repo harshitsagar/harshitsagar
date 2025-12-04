@@ -34,9 +34,9 @@
 ---
 
 # 📊 GitHub Stats:
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&theme=dark&hide_border=false&layout=compact) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&theme=dark&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=harshitsagar&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 <!-- ## 🔥 GitHub Activity Graph
