@@ -41,22 +41,8 @@
 <!-- ### 📊 Profile Summary
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsagar&theme=github_dark) -->
 
-<!-- Alternative style options - try these if the above doesn't work: -->
-<!--
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&layout=compact&theme=dark)
--->
-
-<!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
--->
-
-<!-- ## 🏆 GitHub Trophies -->
-<!-- ![](https://github-profile-trophy.vercel.app/?username=harshitsagar&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-
-<!-- ## 🔥 GitHub Activity Graph -->
-<!-- ![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitsagar&theme=react-dark&hide_border=true&area=true) -->
-
-<!-- --- -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsagar&theme=github_dark) -->
+### 📈 GitHub Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitsagar&theme=dark&hide_border=false)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsagar&theme=github_dark)
 
 [![](https://visitcount.itsvg.in/api?id=harshitsagar&icon=9&color=0)](https://visitcount.itsvg.in) 
