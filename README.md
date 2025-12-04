@@ -36,7 +36,10 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs?username=harshitsagar&layout=compact&theme=dark)
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=harshitsagar&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&layout=compact&theme=dark&hide_border=true" />
+</div>
 <!-- Alternative style options - try these if the above doesn't work: -->
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&layout=compact&theme=dark)
