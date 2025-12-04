@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=harshitsagar&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitsagar&layout=compact&theme=dark" alt="Top Languages" />
 <!-- Alternative style options - try these if the above doesn't work: -->
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&layout=compact&theme=dark)
