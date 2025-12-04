@@ -34,11 +34,7 @@
 
 ---
 
-### 🏆 Achievements
-![GitHub stars](https://img.shields.io/github/stars/harshitsagar?style=social)
-![GitHub followers](https://img.shields.io/github/followers/harshitsagar?style=social)
-![GitHub forks](https://img.shields.io/github/forks/harshitsagar?style=social)
-
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshitsagar&layout=compact&theme=dark&hide_border=true)
 
 <!-- ## 📊 GitHub Stats
 
