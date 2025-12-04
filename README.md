@@ -34,9 +34,12 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitsagar&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitsagar&theme=dark&hide_border=false) -->
+
+### 📊 Profile Summary
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsagar&theme=github_dark)
 
 <!-- Alternative style options - try these if the above doesn't work: -->
 <!--
