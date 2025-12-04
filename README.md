@@ -36,10 +36,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&layout=compact&theme=dark&langs_count=8&hide_border=true)
-
 <!-- Alternative style options - try these if the above doesn't work: -->
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsagar&layout=compact&theme=dark)
