@@ -34,6 +34,8 @@
 
 ---
 
+## 📊 GitHub Stats
+
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshitsagar&layout=compact&theme=dark&hide_border=true)
 
 <!-- ## 📊 GitHub Stats
