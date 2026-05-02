@@ -3,8 +3,8 @@
 🚀 A passionate **Flutter Developer** focused on building fast, scalable & beautiful mobile applications.  
 💡 I love creating real-time apps with clean architecture and seamless UI/UX.  
 📱 Skilled in: Flutter, Dart, Firebase, REST APIs, State Management (GetX • BLoC • Provider), Push Notifications  
-<!--🌱 Currently learning: GraphQL, Flutter Web & App Architecture  -->
 🤝 Open to collaborations & Flutter opportunities  
+<!--🌱 Currently learning: GraphQL, Flutter Web & App Architecture  -->
 
 📫 Reach me at: **harshitsagar71@gmail.com**
 
